@@ -1,3 +1,6 @@
+FractalFriend_JDK18
+--------------------
+
 **Build**
 mvn install
 
