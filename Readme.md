@@ -10,6 +10,7 @@ java -jar FractalFriend_JDK1.8-1.0-SNAPSHOT.jar
 
 
 **Feature Requests**
+
 Implement Randomness checkbox which will allow removal of randomness during getNextIterationAngle
 and getNextSegmentLength.
 
